@@ -1,5 +1,7 @@
 /venv/
 venv/
 venv
+.venv/
 __pycache__/
 *.pyc
+Course 4/yolov8n.pt
